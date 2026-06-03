@@ -8,7 +8,6 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.2+-FF6B35?style=flat&logo=chainlink&logoColor=white)](https://langchain-ai.github.io/langgraph/)
 [![Groq](https://img.shields.io/badge/Groq-Llama%203.3%2070B-F55036?style=flat)](https://groq.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 [![Built by Nimra](https://img.shields.io/badge/Built%20by-Nimra%20Tariq-1A3A5C?style=flat&logo=github)](https://github.com/nimra-pixel)
 
 **Enter a research topic → Get a complete academic literature review in minutes.**  
